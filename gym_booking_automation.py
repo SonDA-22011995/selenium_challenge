@@ -5,8 +5,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-USER_NAME = "sonda@gmail.com"
-PASSWORD = "son22011995"
+USER_NAME = ""
+PASSWORD = ""
 CLASS = ["yoga","spin","hiit"]
 
 chrome_options = webdriver.ChromeOptions()
